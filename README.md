@@ -1,32 +1,32 @@
-# Student Record Management System Java
+# Student Record Management System (Java)
 
 ## Description
-This is a console-based application developed using Python/Java to manage basic student records.
-The project focuses on strengthening core programming fundamentals such as loops, conditionals,functions/methods, and basic data structures.
+This is a simple console-based Java program created to manage basic student records. I built this project while learning Java to understand how menu-driven programs work and how data can be stored and manipulated using collections.
 
 ## Features
-- Add a new student record
-- View all student records
-- Search for a student by ID
-- Update existing student details
+- Add student details
+- Display all student records
+- Search a student using ID
+- Update existing student information
 - Delete a student record
-- Exit the application safely
+- Exit the program
 
 ## Technologies Used
-- Python / Java
-- Git & GitHub
+- Java
+- ArrayList
+- Scanner
+- GitHub
 
 ## Project Structure
-- Main source file containing the application logic
-- Menu-driven program design for user interaction
+The entire project is written in a single Java file called `StudentManagementSystem.java`. It follows a menu-based approach where the user selects options to perform different operations on student records.
 
 ## Purpose
-This project was built as part of my learning journey to practice structured problem-solving,improve programming fundamentals, and gain confidence in writing clean, readable code.
+The main purpose of this project is to practice Java fundamentals such as loops, conditions, methods, and basic data handling. It also helped me understand how to structure a program and think logically while solving problems.
 
 ## Future Improvements
-- File handling for data persistence
-- Input validation enhancements
-- Transition to a database-backed implementation
+- Save data using files so records are not lost after exiting
+- Add better input validation
+- Improve the overall structure using more classes
 
 ## Author
 Gnanendra Reddy
