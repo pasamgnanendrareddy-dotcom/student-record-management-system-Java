@@ -1,4 +1,4 @@
-# Student Record Management System
+# Student Record Management System Java
 
 ## Description
 This is a console-based application developed using Python/Java to manage basic student records.
