@@ -1,36 +1,33 @@
 # Student Record Management System (Java)
 
-## Description
-This is a console-based Java application developed to manage basic student records. 
-The project focuses on strengthening core Java concepts and understanding how data 
-can be stored, accessed, and manipulated using collections.
+## Overview
+A Java-based application designed to manage student records efficiently.
+The system allows users to add, view, search, update, and delete student
+information using unique student IDs.
 
 ## Features
-- Add student details
-- Display all student records
-- Search a student using ID
-- Update student information
+- Add new student records
+- Display all student details
+- Search students by ID
+- Update existing student information
 - Delete student records
+- Input validation for data consistency
 
 ## Technologies Used
 - Java
-- ArrayList
-- Scanner
-
-## Concepts Covered
 - Object-Oriented Programming (OOP)
-- Collections (ArrayList)
-- Conditional statements
-- Loops
-- Methods
-- User input handling
+- Data Structures
+
+## Project Structure
+- Uses classes and objects to model student data
+- Modular design for better readability and maintenance
 
 ## How to Run
 1. Clone the repository
-2. Compile the Java file
-3. Run the program from the terminal
+2. Compile the Java files using `javac`
+3. Run the main class using `java`
 
-## Future Enhancements
-- File handling for persistent storage
-- Input validation
-- Exception handling
+## Future Improvements
+- File-based or database storage
+- Menu-driven UI enhancements
+- Conversion to REST-based backend service
